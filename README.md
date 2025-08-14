@@ -1,6 +1,5 @@
 # Jose Rafael Achilles L. Delgado — @realjeeyo
 
-<img align="right" src="https://i.pinimg.com/originals/a8/5a/e1/a85ae1c527eb7dac70def700ffbea69a.gif" width="250" alt="Coding Animation">
 
 Hi, I'm Jio
 
@@ -9,6 +8,7 @@ Hi, I'm Jio
 - 💻 Interested in **UI/UX Design, Full-Stack Web Development, and Networking Fundamentals**
 - 🚀 Currently learning **Lua & Lua C**
 - 📫 Email: **jra.ldelgado@gmail.com**
+<img align="right" src="https://i.pinimg.com/originals/a8/5a/e1/a85ae1c527eb7dac70def700ffbea69a.gif" width="250" alt="Coding Animation">
 
 I'm currently learning a mix of **Full-Stack Web Development**, **UI/UX Design**, and **Networking Fundamentals**.
 

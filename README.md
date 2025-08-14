@@ -1,5 +1,7 @@
 # Jose Rafael Achilles L. Delgado — @realjeeyo
 
+![Mofusand](https://github.com/user-attachments/assets/70f7e9e7-06f4-4a6d-92d5-644f3c90c5af)
+
 Hi, I'm Jio
 
 ## 🌱 About Me

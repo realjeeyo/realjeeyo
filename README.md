@@ -1,16 +1,32 @@
-## Hi there 👋
+# Jose Rafael Achilles L. Delgado — @realjeeyo
 
-<!--
-**realjeeyo/realjeeyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Jio — a third-year Bachelor of Science in Information Technology (BSIT) student at the University of San Carlos.
 
-Here are some ideas to get you started:
+I'm currently learning a mix of **Full-Stack Web Development**, **UI/UX Design**, and **Networking Fundamentals**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I love working on projects that combine creativity and functionality
+
+---
+
+## 🛠️ Technology Stack
+
+**Frontend**  
+React · Tailwind CSS · HTML5 · CSS3 · Bootstrap
+
+**Backend**  
+Node.js · PHP · GraphQL · RabbitMQ · MySQL · PostgreSQL · Supabase · Go
+
+**Others**  
+Figma · Docker · Postman · Cisco Packet Tracer · GNS3
+
+---
+
+## 📊 GitHub Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realjeeyo&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realjeeyo&layout=compact&theme=tokyonight)
+
+---
+
+## 📬 Connect With Me
+- **Email:** jra.ldelgado@gmail.com  
+- **GitHub:** [github.com/realjeeyo](https://github.com/realjeeyo)

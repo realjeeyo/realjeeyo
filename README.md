@@ -1,8 +1,8 @@
 # Jose Rafael Achilles L. Delgado — @realjeeyo
 
-<img align="right" src="https://i.pinimg.com/originals/a8/5a/e1/a85ae1c527eb7dac70def700ffbea69a.gif" width="250" alt="Coding Animation">
+<img align="right" src="https://i.pinimg.com/originals/a8/5a/e1/a85ae1c527eb7dac70def700ffbea69a.gif" width="250">
 
-Hi, I'm Jio
+Hi, I'm Jose Rafael Achilles, but you can call me Jio!
 
 ## 🌱 About Me
 - 🎓 Studying **Bachelor of Science in Information Technology** at the **University of San Carlos**

@@ -1,7 +1,7 @@
 # Jose Rafael Achilles L. Delgado — @realjeeyo
 
 
-Hi, I'm Jose Rafael Achilles, but you can call me Jio! I'm an aspiring Web Developer, and Software Engineer who loves to take on challenges, solve problems, and create solutions!
+Hi, I'm Jose Rafael Achilles, but you can call me Jio! I'm an aspiring Web Developer, and Software Developer who loves to take on challenges, solve problems, and create solutions!
 
 ## 🌱 About Me
 <img align="right" src="https://i.pinimg.com/originals/a8/5a/e1/a85ae1c527eb7dac70def700ffbea69a.gif" width="200">

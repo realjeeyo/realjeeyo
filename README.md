@@ -1,7 +1,7 @@
 # Jose Rafael Achilles L. Delgado — @realjeeyo
 
 
-Hi, I'm Jose Rafael Achilles, but you can call me Jio! I'm a Frontend Developer, UX/UI Designer. (Currently learning Backend)
+Hi, I'm Jose Rafael Achilles, but you can call me Jio! I'm a Frontend Developer and UX/UI Designer. (Currently learning Backend)
 
 ## 🌱 About Me
 <img align="right" src="https://i.pinimg.com/originals/a8/5a/e1/a85ae1c527eb7dac70def700ffbea69a.gif" width="200">

@@ -1,20 +1,20 @@
 # Jose Rafael Achilles L. Delgado — @realjeeyo
 
 
-Hi, I'm Jose Rafael Achilles, but you can call me Jio! I'm an aspiring Web Developer, and Software Developer who loves to take on challenges, solve problems, and create solutions!
+Hi, I'm Jose Rafael Achilles, but you can call me Jio! I'm a Frontend Developer, UX/UI Designer. (Currently learning Backend)
 
 ## 🌱 About Me
 <img align="right" src="https://i.pinimg.com/originals/a8/5a/e1/a85ae1c527eb7dac70def700ffbea69a.gif" width="200">
 
 - 🎓 Studying **Bachelor of Science in Information Technology** at the **University of San Carlos**
 - 💻 Interested in **UI/UX Design, Full-Stack Web Development, and Networking Fundamentals**
-- 🚀 Currently learning **Lua & Lua C**
+- 🚀 Currently learning **Backend Development**
 - 📫 Email: **jra.ldelgado@gmail.com**
 
 
 I'm currently learning a mix of **Full-Stack Web Development**, **UI/UX Design**, and **Networking Fundamentals**.
 
-I love working on projects that combine creativity and functionality
+I also do Video Editing & Graphic Design as a hobby.
 
 ---
 

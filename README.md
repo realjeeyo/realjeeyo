@@ -7,12 +7,12 @@ Hi, I'm Jose Rafael Achilles, but you can call me Jio! I'm an aspiring Web & AI 
 <img align="right" src="https://i.pinimg.com/originals/a8/5a/e1/a85ae1c527eb7dac70def700ffbea69a.gif" width="200">
 
 - 🎓 Studying **Bachelor of Science in Information Technology** at the **University of San Carlos**
-- 💻 Interested in **Minimalist UI/UX Design, RAG Applications, and Networking Fundamental**
+- 💻 Interested in **Minimalist UI/UX Design, RAG Applications, and Networking Fundamentals**
 - 🚀 Currently learning **Full-Stack Web Development** and **Retrieval-Augmented Generation**
 - 📫 Email: **jra.ldelgado@gmail.com**
 
 
-
+_ab uno disce omnes_ -- From One, Learn All.
 
 I also do Video Editing, UI/UX & Graphic Design as a hobby.
 

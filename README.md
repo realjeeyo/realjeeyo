@@ -64,8 +64,8 @@ I also do Video Editing, UI/UX & Graphic Design as a hobby.
 ---
 
 ## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realjeeyo&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realjeeyo&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realjeeyo&show_icons=true&theme=codeSTACKr)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realjeeyo&layout=compact&theme=codeSTACKr)
 
 ---
 

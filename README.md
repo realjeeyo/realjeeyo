@@ -64,8 +64,8 @@ I also do Video Editing, UI/UX & Graphic Design as a hobby.
 ---
 
 ## 📊 GitHub Statistics
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realjeeyo&layout=compact&theme=codeSTACKr)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=realjeeyo&show_icons=true&theme=codeSTACKr)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=realjeeyo&layout=compact&theme=codeSTACKr)
 
 ---
 
@@ -73,3 +73,4 @@ I also do Video Editing, UI/UX & Graphic Design as a hobby.
 - **Email:** jra.ldelgado@gmail.com  
 - **GitHub:** [github.com/realjeeyo](https://github.com/realjeeyo)
 - **Facebook:** [facebook.com/jiotheleo](https://facebook.com/jiotheleo)
+- **LinkedIn:** [linkedin.com/jiodelgado](https://www.linkedin.com/in/jiodelgado/)
